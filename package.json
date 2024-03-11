@@ -1,8 +1,8 @@
 {
-  "name": "teaMission",
+  "name": "DemoTeaNetwork",
   "version": "1.0.0",
   "description": "new pj",
-  "main": "index.js",
+  "main": "variable.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
